@@ -1,6 +1,7 @@
 {
     "cmake.configureOnOpen": true,
     "files.associations": {
-        "createwindow.h": "c"
+        "createwindow.h": "c",
+        "gtk.h": "c"
     }
 }
